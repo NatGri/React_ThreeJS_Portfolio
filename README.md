@@ -1,4 +1,4 @@
-# React + Vite + ThreeJS Portfolio\
+# React + Vite + ThreeJS Portfolio
 
 This project is aimed to learn substantial JS skills and develop a personal portfolio. 
 The video being followed to create such a portfolio can be found on YouTube (https://www.youtube.com/watch?v=FkowOdMjvYo).
